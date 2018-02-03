@@ -9,7 +9,7 @@ public class E2_1{
 	char c;
 
 	public E2_1(){
-		System.out.println("Hola Mundo!);
+		System.out.println("Hola Mundo!"); // Añadido de la doble comilla final de cierre.
 	}
 	
 	public static void main(String[] args) {
