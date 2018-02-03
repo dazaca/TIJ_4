@@ -1,5 +1,5 @@
-/*(2) Cree una clase que contenga una variable int y otra char que no estén inicializadas e imprima sus valo¬
-res para verificar que Java se encarga de realizar una inicialización predeterminada.*/
+/*(2) Cree una clase que contenga una variable int y otra char que no estÃ©n inicializadas e imprima sus valoÂ¬
+res para verificar que Java se encarga de realizar una inicializaciÃ³n predeterminada.*/
 
 package EJERCICIOS_TIJ4_PRACTICA;
 
@@ -9,8 +9,7 @@ public class E2_1{
 	char c;
 
 	public E2_1(){
-		System.out.println("i="+i);
-		System.out.println("c= " + "["+ c + ']');
+		System.out.println("Hola Mundo!"); // AÃ±adido de la doble comilla final de cierre.
 	}
 	
 	public static void main(String[] args) {
