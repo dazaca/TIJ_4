@@ -62,5 +62,18 @@ Merge the changes and update on GitHub.
 
 git checkout master
 git merge --no-ff pruebas
-git push origin master
+git push origin master // 
 
+--------------------------------------
+
+/// Para apuntar al destino remoto donde haremos el PUSH:
+
+git remote set-url origin https://github.com/dazaca/dev-proyectos.git
+
+/// Verificamos que se ha cambiado bien:
+
+git remote -v
+
+/// Ahora podemos hacer PUSH sobre el remoto en el tronco (rama master)
+
+git push origin master
