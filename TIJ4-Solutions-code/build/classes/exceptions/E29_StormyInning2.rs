@@ -1,0 +1,10 @@
+exceptions.Strike2
+exceptions.Foul2
+exceptions.StormyInning2
+exceptions.RainedOut2
+exceptions.Inning2
+exceptions.StormException2
+exceptions.PopFoul2
+exceptions.BaseballException2
+exceptions.Storm2
+exceptions.E29_StormyInning2

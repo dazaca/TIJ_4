@@ -1,0 +1,9 @@
+generics.Failure1_2
+generics.Failure2_1
+generics.Failure2_2
+generics.Failure1_1
+generics.E36_GenericExceptions
+generics.Processor
+generics.Processor2
+generics.ProcessRunner
+generics.Processor1

@@ -1,0 +1,2 @@
+interfaces.interfaceprocessor.FilterAdapter
+interfaces.interfaceprocessor.FilterProcessor

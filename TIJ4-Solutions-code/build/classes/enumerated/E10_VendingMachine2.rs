@@ -1,0 +1,12 @@
+enumerated.VendingMachine2$State$5
+enumerated.VendingMachine2$State
+enumerated.E10_VendingMachine2
+enumerated.VendingMachine2$State$2
+enumerated.VendingMachine2$State$1
+enumerated.VendingMachine2$State$4
+enumerated.VendingMachine2$State$3
+enumerated.VendingMachine2
+enumerated.VendingMachine2$Context
+enumerated.VendingMachine2$StateDuration
+enumerated.E10_VendingMachine2$1
+enumerated.VendingMachine2$Machine

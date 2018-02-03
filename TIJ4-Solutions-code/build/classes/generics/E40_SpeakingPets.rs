@@ -1,0 +1,13 @@
+generics.SCat
+generics.SRodent
+generics.SManx
+generics.SPet
+generics.SDog
+generics.SCymric
+generics.SMutt
+generics.SRat
+generics.SEgyptianMau
+generics.E40_SpeakingPets
+generics.SMouse
+generics.SPug
+generics.SHamster

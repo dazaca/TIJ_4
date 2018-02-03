@@ -1,0 +1,2 @@
+containers.E39_SimpleHashMapRehash
+containers.SimpleHashMap7

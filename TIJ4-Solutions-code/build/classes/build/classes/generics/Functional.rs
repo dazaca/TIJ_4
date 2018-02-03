@@ -1,0 +1,13 @@
+generics.UnaryFunction
+generics.Functional$AtomicLongAdder
+generics.Functional$IntegerAdder
+generics.Functional
+generics.Functional$BigDecimalUlp
+generics.Functional$BigIntegerAdder
+generics.Functional$GreaterThan
+generics.Functional$BigDecimalAdder
+generics.UnaryPredicate
+generics.Combiner
+generics.Collector
+generics.Functional$IntegerSubtracter
+generics.Functional$MultiplyingIntegerCollector

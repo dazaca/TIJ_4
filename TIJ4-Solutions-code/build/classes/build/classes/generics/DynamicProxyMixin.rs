@@ -1,0 +1,2 @@
+generics.MixinProxy
+generics.DynamicProxyMixin

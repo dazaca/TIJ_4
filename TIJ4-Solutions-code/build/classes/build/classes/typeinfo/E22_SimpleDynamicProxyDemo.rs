@@ -1,0 +1,2 @@
+typeinfo.E22_SimpleDynamicProxyDemo
+typeinfo.DynamicProxyHandler

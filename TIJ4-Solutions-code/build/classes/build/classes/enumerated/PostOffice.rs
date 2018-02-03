@@ -1,0 +1,14 @@
+enumerated.PostOffice$MailHandler
+enumerated.PostOffice$MailHandler$2
+enumerated.Mail$1$1
+enumerated.PostOffice$MailHandler$1
+enumerated.Mail
+enumerated.PostOffice$MailHandler$4
+enumerated.PostOffice$MailHandler$3
+enumerated.Mail$GeneralDelivery
+enumerated.PostOffice
+enumerated.Mail$Scannability
+enumerated.Mail$1
+enumerated.Mail$Address
+enumerated.Mail$ReturnAddress
+enumerated.Mail$Readability

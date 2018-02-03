@@ -1,0 +1,16 @@
+enumerated.FMail$ForwardAddress
+enumerated.FMail$Readability
+enumerated.FMail$1
+enumerated.E08_MailForwarding$MailHandler
+enumerated.FMail
+enumerated.E08_MailForwarding
+enumerated.E08_MailForwarding$MailHandler$1
+enumerated.E08_MailForwarding$MailHandler$2
+enumerated.FMail$ReturnAddress
+enumerated.E08_MailForwarding$MailHandler$3
+enumerated.E08_MailForwarding$MailHandler$4
+enumerated.E08_MailForwarding$MailHandler$5
+enumerated.FMail$Scannability
+enumerated.FMail$Address
+enumerated.FMail$1$1
+enumerated.FMail$GeneralDelivery

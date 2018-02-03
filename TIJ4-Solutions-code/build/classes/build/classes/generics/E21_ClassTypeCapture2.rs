@@ -1,0 +1,2 @@
+generics.E21_ClassTypeCapture2
+generics.ClassTypeCapture2

@@ -1,0 +1,4 @@
+interfaces.interfaceprocessor.StringProcessor
+interfaces.interfaceprocessor.Splitter
+interfaces.interfaceprocessor.Upcase
+interfaces.interfaceprocessor.Downcase

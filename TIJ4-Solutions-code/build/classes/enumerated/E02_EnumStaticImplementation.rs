@@ -1,0 +1,2 @@
+enumerated.CartoonCharacter
+enumerated.E02_EnumStaticImplementation

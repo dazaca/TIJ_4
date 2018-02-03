@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/Yomismoyatedigo/Desktop/JAVA/jars/javassist.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yomismoyatedigo/Desktop/JAVA/jars/javaws.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yomismoyatedigo/Desktop/JAVA/jars/swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yomismoyatedigo/Desktop/JAVA/jars/swt-debug.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yomismoyatedigo/Desktop/JAVA/jars/tools.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Yomismoyatedigo/Desktop/JAVA/jars/xom-1.2.10.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
