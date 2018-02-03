@@ -1,0 +1,66 @@
+git diff --staged
+git add -A          // Añadimos todos los cambios del Staging Area
+                    // (fichero modificados) el repertorio a comitear
+
+git commit -m 'Commit 1 -> volcado de todos los directorios/fuentes (del manual y
+ mis ejercicios de práctica)por primera vez del manual Think in Java 4'
+
+git remote add origin https://github.com/dazaca/dev-proyectos.git   
+// Crea nuevo remote, es posible descargar el contenido de ese repo con git fetch origin.
+// Con esto llevamos  por primera vez todo el stage al remoto (estructura pero sin 
+// haber subido ningún cambio aún. Para ello haremos el PUSH):
+
+git push -u origin master
+// subimos toda la rama master al origin (descarga de todos los archivos).
+
+
+/////////  una vez echos cambios en el remoto (modifs + crear ramas + etc)
+/////////  podemos recuperar (descargar) los cambios con:
+
+git fetch origin
+
+/// y crear una rama local a partir de la remota nueva (pruebas):
+
+git checkout -b pruebas origin/pruebas
+
+---------------------------------------------------------
+> git fetch origin
+remote: Counting objects: 10, done.
+remote: Compressing objects: 100% (10/10), done.
+remote: Total 10 (delta 8), reused 0 (delta 0), pack-reused 0
+Desempaquetando objetos: 100% (10/10), listo.
+Desde https://github.com/dazaca/dev-proyectos
+ * [nueva rama]      pruebas    -> origin/pruebas
+> git checkout -b pruebas origin/pruebas
+Rama 'pruebas' configurada para hacer seguimiento a la rama remota 'pruebas' de 'origin'.
+Cambiado a nueva rama 'pruebas'
+
+---------------------------------------
+
+
+
+
+
+/// ahora fusionamos los cambios con el tronco (master). En este primer
+/// ejemplo, al encontrarnos (en pruebas, nuestra 2a rama) a sólo 1 commit 
+/// adelantado respecto de la la master a la que vamos a hacer el merge,
+/// se hará un "Fast Forward" -> "... cuando se hace un merge 
+/// y el commit de la rama a mezclar esta justo un commit adelantado, simplemente
+/// se hace apuntar la rama en la que se iba a mezclar al commit del merge."
+/// 
+/// Fast Forward = "...  is when, instead of constructing a merge commit, git just 
+/// moves your branch pointer to point at the incoming commit. This commonly occurs 
+/// when doing a git pull without any local changes."
+
+
+/// Ahora hacemos
+git merge master
+
+
+Y en una segunda fase: 
+Merge the changes and update on GitHub.
+
+git checkout master
+git merge --no-ff pruebas
+git push origin master
+
