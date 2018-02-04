@@ -77,3 +77,7 @@ git remote -v
 /// Ahora podemos hacer PUSH sobre el remoto en el tronco (rama master)
 
 git push origin master
+
+/// Última modif para subir el cambio con PUSH al GitHub pero esta vez con VS code (Commit 8)... :)
+/// Cada vez que hacemos una modif podemos validarlos para comiteo (es el equivalente al comando
+/// stage all the file(s) con "git add -A").
