@@ -1,0 +1,145 @@
+XDG_VTNR=7
+SSH_AGENT_PID=2505
+XDG_SESSION_ID=c3
+TERM_PROGRAM=vscode
+CLUTTER_IM_MODULE=
+XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/yomismoyatedigo
+QT_STYLE_OVERRIDE=gtk
+SESSION=xfce
+GLADE_PIXMAP_PATH=:
+TERM=xterm-256color
+DESKTOP_STARTUP_ID=xfce4-panel/|usr|share|code|code/2514-10-yomismoyatedigo-VirtualBox_TIME8390188
+SHELL=/bin/bash
+XDG_MENU_PREFIX=xfce-
+DERBY_HOME=/usr/lib/jvm/java-8-oracle/db
+QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+TERM_PROGRAM_VERSION=1.19.3
+OLDPWD=/usr/local
+UPSTART_SESSION=unix:abstract=/com/ubuntu/upstart-session/1000/2317
+GNOME_KEYRING_CONTROL=
+VSCODE_NODE_CACHED_DATA_DIR_9830=/home/yomismoyatedigo/.config/Code/CachedData/7c4205b5c6e52a53b81c69d2b2dc8a627abaa0ba
+GTK_MODULES=gail:atk-bridge
+USER=yomismoyatedigo
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+QT_ACCESSIBILITY=1
+CLUTTER_BACKEND=x11
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+GLADE_MODULE_PATH=:
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+SSH_AUTH_SOCK=/tmp/ssh-BGjmuUUl3gWX/agent.2504
+SESSION_MANAGER=local/yomismoyatedigo-VirtualBox:@/tmp/.ICE-unix/2472,unix/yomismoyatedigo-VirtualBox:/tmp/.ICE-unix/2472
+DEFAULTS_PATH=/usr/share/gconf/xfce.default.path
+XDG_CONFIG_DIRS=/etc/xdg/xdg-xfce:/usr/share/upstart/xdg:/etc/xdg:/etc/xdg
+GOOGLE_API_KEY=AIzaSyAQfxPJiounkhOjODEO5ZieffeBv6yft2Q
+PATH=/home/yomismoyatedigo/bin:/home/yomismoyatedigo/.local/bin:/home/yomismoyatedigo/bin:/home/yomismoyatedigo/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/usr/lib/jvm/java-8-oracle/jre/bin/java
+DESKTOP_SESSION=xfce
+QT_IM_MODULE=
+JOB=dbus
+PWD=/home/yomismoyatedigo
+XDG_SESSION_TYPE=x11
+JAVA_HOME=/usr/lib/jvm/java-8-oracle
+XMODIFIERS=
+LANG=en_US.UTF-8
+GNOME_KEYRING_PID=
+GDM_LANG=es_ES
+MANDATORY_PATH=/usr/share/gconf/xfce.mandatory.path
+CHROME_DESKTOP=Code.desktop
+IM_CONFIG_PHASE=1
+PS1=> 
+GDMSESSION=xfce
+SESSIONTYPE=
+HOME=/home/yomismoyatedigo
+SHLVL=2
+XDG_SEAT=seat0
+LANGUAGE=es_ES
+VSCODE_NLS_CONFIG={"locale":"en","availableLanguages":{}}
+GTK_OVERLAY_SCROLLING=0
+UPSTART_INSTANCE=
+UPSTART_EVENTS=started xsession
+XDG_SESSION_DESKTOP=xfce
+LOGNAME=yomismoyatedigo
+VSCODE_IPC_HOOK=/run/user/1000/Code-1.19.3-main.sock
+XDG_DATA_DIRS=/usr/share/xfce:/usr/share/xfce4:/home/yomismoyatedigo/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/usr/share
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-a5sgd7NvXu
+QT4_IM_MODULE=
+J2SDKDIR=/usr/lib/jvm/java-8-oracle
+LESSOPEN=| /usr/bin/lesspipe %s
+VSCODE_PID=9830
+UPSTART_JOB=startxfce4
+INSTANCE=
+DISPLAY=:0.0
+XDG_RUNTIME_DIR=/run/user/1000
+GLADE_CATALOG_PATH=:
+XDG_CURRENT_DESKTOP=XFCE
+GTK_IM_MODULE=
+J2REDIR=/usr/lib/jvm/java-8-oracle/jre
+LESSCLOSE=/usr/bin/lesspipe %s %s
+XAUTHORITY=/home/yomismoyatedigo/.Xauthority
+_=/usr/bin/env
+
+
+Configurar PATH para el JDK 8 de Java en linux:
+
+https://www.2daygeek.com/setup-java-environment-variables-on-ubuntu-centos-debian-fedora-mint-rhel-opensuse/#
+
+Básicamente, para el usuario actual (sólo para éste y no todos), vamos a modificar el BASHRC
+
+cd ~
+
+editamos el BASHRC
+
+vi ~/.bashrc
+
+añadimos las siguientes líneas teniendo en cuenta que hemos de identificar 
+primero el directorio de instalación de java ( con el comando which java (cuyo resultado nos da /usr/bin/java) 
+preguntamos y con el enlace simbólico obtenido (/usr/bin/java) lanzamos el comando ls -lah /usr/bin/java 
+para obtener el camino exacto, en este caso /etc/alternatives/java. Luego hay que sacar el camino absoluto
+de este repertorio -> ls -lah /etc/alternatives/java    que expulsa /usr/lib/jvm/java-8-oracle/jre/bin/java ->
+este es nuestro directorio original de la instalación de java):
+
+export JAVA_HOME=/usr/lib/jvm/java-8-oracle/bin/java
+export JRE_HOME=/usr/lib/jvm/java-8-oracle/jre/bin/java
+export PATH=$PATH:$HOME/bin:JAVA_HOME:JRE_HOME
+
+
+Ahora pasaremos los directorios de nuestro proyecto donde están contenidas las clases al CLASSPATH:
+
+https://docs.oracle.com/javase/8/docs/technotes/tools/windows/classpath.html#BEHJBHCD
+
+"...
+
+sdkTool -classpath classpath1:classpath2...
+
+sdkTool
+
+    A command-line tool, such as java, javac, javadoc, or apt. For a listing, see JDK Tools and Utilities at
+    http://docs.oracle.com/javase/8/docs/technotes/tools/index.html
+classpath1:classpath2
+
+    Class paths to the JAR, zip or class files. Each class path should end with a file name or directory depending on what you are setting the class path to, as follows:
+
+        For a JAR or zip file that contains class files, the class path ends with the name of the zip or JAR file.
+
+        For class files in an unnamed package, the class path ends with the directory that contains the class files.
+
+        For class files in a named package, the class path ends with the directory that contains the root package, which is the first package in the full package name.
+
+
+..."
+
+
+buscamos en nuestro proyecto donde estén las clases:
+
+find /home/yomismoyatedigo/DEV_PROYECTOS -name *.class
+
+vemos que todos están en /home/yomismoyatedigo/DEV_PROYECTOS/TIJ4-code/bin/
+
+luego declaramos:
+
+
+sdkTool -classpath /home/yomismoyatedigo/DEV_PROYECTOS/TIJ4-code/bin/
+
+
+
+
+git commit -m 'Commit 10 añadiendo el archivo txt que contiene los repertorios de clases del proyecto de soluciones de TIJ4 que me serviran para configurar las variablas de entorno del classpath (editadas en el fichero Ventorno.txt).'
