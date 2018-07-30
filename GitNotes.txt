@@ -1,3 +1,4 @@
+git checkout -- .  // recuperamos todos los ficheros del directorio (incluso si se borraron)
 git diff --staged
 git add -A          // Añadimos todos los cambios del Staging Area
                     // (fichero modificados) el repertorio a comitear
