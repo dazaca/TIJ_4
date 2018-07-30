@@ -1,10 +1,11 @@
 git checkout -- .  // recuperamos todos los ficheros del directorio en local (incluso si se borraron). Si tenemos ficheros 
 // modificados y los guardamos en local pero no hacemos un commit previamente (precedido por un stage con git add -A), éstos
-// vuelven a su estado previo antes de la modificación (incluso si dichos cambios estaban guardados en local).
+// vuelven a su estado previo antes de la modificación (incluso si dichos cambios estaban guardados en local). Además dichos archivos que previamente podrían aparecer como candidatos a comiteo (presentes en el listado en rojo que aparece al hacer "git status") ya no apareceran al hacer el "git status".
 
 git diff --staged
 git add -A          // Añadimos todos los cambios del Staging Area
                     // (fichero modificados) el repertorio a comitear
+git reset HEAD      // Nos va a permitir desvincular todos esos cambios que se han seleccionado en el Staging Area (con la                           //instrucción "git add -A" previos al commit.
 
 git commit -m 'Commit 1 -> volcado de todos los directorios/fuentes (del manual y
  mis ejercicios de práctica)por primera vez del manual Think in Java 4'
