@@ -28,6 +28,13 @@ git fetch origin
 
 git checkout -b pruebas origin/pruebas
 
+
+// También podemos:
+
+'git pull origin master' fetches a copy of the master branch from the original repository, and merges it with the current branch you have checked out.
+
+'git pull' by default merges your checked out, local branch with the remote branch you created your local branch from.
+
 ---------------------------------------------------------
 > git fetch origin
 remote: Counting objects: 10, done.
