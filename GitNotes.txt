@@ -1,4 +1,7 @@
-git checkout -- .  // recuperamos todos los ficheros del directorio (incluso si se borraron)
+git checkout -- .  // recuperamos todos los ficheros del directorio en local (incluso si se borraron). Si tenemos ficheros 
+// modificados y los guardamos en local pero no hacemos un commit previamente (precedido por un stage con git add -A), éstos
+// vuelven a su estado previo antes de la modificación (incluso si dichos cambios estaban guardados en local).
+
 git diff --staged
 git add -A          // Añadimos todos los cambios del Staging Area
                     // (fichero modificados) el repertorio a comitear
