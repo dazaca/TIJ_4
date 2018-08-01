@@ -11,9 +11,10 @@ git commit -m 'Commit 1 -> volcado de todos los directorios/fuentes (del manual 
  mis ejercicios de práctica)por primera vez del manual Think in Java 4'
 
 git remote add origin https://github.com/dazaca/dev-proyectos.git   
-// Crea nuevo remote, es posible descargar el contenido de ese repo con git fetch origin.
-// Con esto llevamos  por primera vez todo el stage al remoto (estructura pero sin 
-// haber subido ningún cambio aún. Para ello haremos el PUSH):
+
+
+git remote set-url origin https://github.com/dazaca/java-training.git
+//// Tenemos una carpeta en local con un proyecto git (repositorio que contiene varios archivos stageados y comiteados) y ///// //// queremos vincularla con un repo nuevo que acabamos de crear en Github. Para ello llevamos  por primera vez todo el stage //// al remoto (estructura pero sin haber subido ningún cambio aún). Para reflejar los cambios echos en el local haremos el PUSH:
 
 git push -u origin master
 // subimos toda la rama master al origin (descarga de todos los archivos).
